@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ozz</string>
+    <string name="yellow_star">Yello Star</string>
+    <string name="bio">Ozz got his B.S. in Systems Engineering from ESCOM, IPN and started leading the systems area of a marketing company for supporting web apps and backend services of clients like Coca Cola.  He left client facing for giving Java certification courses which later helped him for doing web development for more than 11 years in the Finance and Booking Industries.  He was part of the Labs Team where he led an internal product development for improving communications between teams. He was part of a Site Reliability Initiative for assuring the well performance of the services, sometimes he was in the role of DevOps. Organizing the first event for encouraging women to code, he realized his ability and joy to talk to others while helping them.  Later he participated in the organization of several conferences, technical courses and talks for audiences of all ages and genders. He recently joined Agile and Rust communities for keeping learning and for helping people to be focused and enjoy what they do.
+\n\nOn the side, you might see him commuting in his rolling blades or helping others to roll at the streets or at youtube. He also owns a small silver schnauzer which sometimes runs with him while skating at the parks.</string>
+    <string name="what_is_your_nickname">What is your nickname ?</string>
+    <string name="done">Done</string>
+</resources>
